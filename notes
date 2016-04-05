@@ -1,0 +1,15 @@
+npm init
+bower init
+
+
+npm installs --save
+
+express
+ejs
+browserify
+reactify
+gulp 
+gulp-live-server
+browser-sync
+vinyl-source-stream
+guid
